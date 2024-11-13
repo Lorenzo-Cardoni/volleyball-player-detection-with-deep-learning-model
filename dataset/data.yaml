@@ -1,0 +1,13 @@
+train: C:/Users/cardo/Desktop/Projects/Volleyball-Player-Detection-with-Deep-Learning-Model/dataset//train//images
+val: C:/Users/cardo/Desktop/Projects/Volleyball-Player-Detection-with-Deep-Learning-Model/dataset//valid//images
+test: C:/Users/cardo/Desktop/Projects/Volleyball-Player-Detection-with-Deep-Learning-Model/dataset//test//images
+
+nc: 2
+names: ['ball', 'player']
+
+roboflow:
+  workspace: protom
+  project: volleyball-yb8bx
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/protom/volleyball-yb8bx/dataset/1
