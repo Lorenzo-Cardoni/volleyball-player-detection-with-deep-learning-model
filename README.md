@@ -1,5 +1,5 @@
 # Volleyball Player Detection with YOLOv11
-Project for the detection of volleyball player and ball with YOLOv11.
+Personal Project for the detection of volleyball player and ball with YOLOv11.
 
 ![vpd_ex](https://github.com/user-attachments/assets/f37b0d27-3e05-465f-8bb9-1ed00934f970)
 
